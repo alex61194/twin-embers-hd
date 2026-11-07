@@ -11,8 +11,5 @@ The art is **HD Dynamic Battlefields, by Bentley734** (https://github.com/Bentle
 his paintings cut and reduced to the 3DS's resolution by `tools/dev_hd_battlefields.py` in the Twin Embers repository. The
 original paintings are not here.
 
-On 2026-11-06 Bentley734 answered alex61194 on Discord, after being asked to use his backgrounds in a FireRed port for the
-3DS: "go ahead, but u should probably compress and optimize them for 3ds since they're pretty big". That is permission to use
-them in Twin Embers, not a licence for anything else. Please ask him before using them elsewhere.
 
 The places and settings drawn belong to Nintendo, Game Freak and Creatures.
